@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://i.redd.it/wmf4pf98d4l61.png" alt="Normal Image" />
+</p>" alt="Normal Image" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abhishek Bedge</h1>
 <h3 align="center">A passionate software developer</h3>
 
