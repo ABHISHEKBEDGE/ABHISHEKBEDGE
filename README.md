@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://soshace.com/wp-content/uploads/2019/10/What-is-Full-Stack-Is-Full-Stack-Even-Real.jpg"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Abhishek Bedge</h1>
 <h3 align="center">A passionate software developer</h3>
