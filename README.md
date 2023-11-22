@@ -1,7 +1,6 @@
 <p align="center">
   <img src="<p align="center">
-  <img src="https://i.redd.it/wmf4pf98d4l61.png" alt="Normal Image" />
-</p>" alt="Normal Image" />
+  <img src="https://soshace.com/wp-content/uploads/2019/10/What-is-Full-Stack-Is-Full-Stack-Even-Real.jpg"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Bedge</h1>
