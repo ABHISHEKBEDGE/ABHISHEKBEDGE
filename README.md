@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbedge&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbedge" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://abhishekbedge.netlify.app/#experience](https://abhishekbedge.netlify.app/#experience)
+
 
 - 📫 How to reach me **abhishekbedge1947@gmail.com**
 
